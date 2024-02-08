@@ -1,5 +1,5 @@
-# Cows-Mounting-Behavior-Detection-Dataset
-Cows Mounting Behavior Detection Dataset
+# Cows-Mounting-Behavior-Detection
+Cows Mounting Behavior Detection
 Cows Mounting Behavior Detection based on IATEFF-YOLO
 To find the dataset used in this study, please make sure all files are downloaded from: https://pan.baidu.com/s/1GTHXphYGuJuwcKJsYOS9pw
 
