@@ -10,6 +10,7 @@ We have also uploaded the data to Aliyun Drive. For details, please contact bsda
 ## Presenting Partial Detection Results
 <img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/091.jpg" alt="夜间低光检测结果" width="320" height="180">
 
+<img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/091.jpg" alt="夜间低光检测结果" width="320" height="180">
 
 ## Citation
 If you find this resource helpful, please cite.
