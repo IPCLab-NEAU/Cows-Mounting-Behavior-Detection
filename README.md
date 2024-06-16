@@ -22,8 +22,10 @@ We have also uploaded the data to Aliyun Drive. For details, please contact bsda
   <img align=center src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/0130.jpg" alt="白天正常光照检测结果" width="800" height="550">
 </div>
 
+<div>
+  <img align=center src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/00000372.jpg" alt="白天正常光照检测结果" width="800" height="550">
+</div>
 
-<img align=center src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/00000372.jpg" alt="白天正常光照检测结果" width="800" height="550">
 
 ## Citation
 If you find this resource helpful, please cite.
