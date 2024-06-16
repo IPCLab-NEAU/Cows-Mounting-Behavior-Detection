@@ -8,9 +8,9 @@ Extraction code：please email at bsdai@neau.edu.cn
 We have also uploaded the data to Aliyun Drive. For details, please contact bsdai@neau.edu.cn.
 
 ## Presenting Partial Detection Results
-<img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/091.jpg" alt="夜间低光检测结果" width="320" height="180">
+<img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/091.jpg" alt="夜间低光检测结果" width="1920" height="1080">
 
-<img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/091.jpg" alt="夜间低光检测结果" width="320" height="180">
+<img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/021.jpg" alt="夜间低光检测结果" width="1920" height="1080">
 
 ## Citation
 If you find this resource helpful, please cite.
