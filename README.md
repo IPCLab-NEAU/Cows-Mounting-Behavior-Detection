@@ -11,7 +11,6 @@ We have also uploaded the data to Aliyun Drive. For details, please contact bsda
 
 <div align=center>
   <img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/091.jpg" alt="夜间低光检测结果" width="800" height="550">
-
 </div>
 
 <div align=center>
