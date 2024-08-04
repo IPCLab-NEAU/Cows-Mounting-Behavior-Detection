@@ -8,6 +8,13 @@ Extraction code：please email at bsdai@neau.edu.cn
 
 We have also uploaded the data to Aliyun Drive. For details, please contact bsdai@neau.edu.cn.
 
+
+##  2️⃣ Results
+The experimental results are as below.
+| Method  |   mAP  |  Precision |   Recall | Accuracy |   Speed  |
+| --------| ------ | ---------- | -------- | -------- | -------- |
+| Ours    | 99.3%  |   97.8%    |   99.4%  |   99.1%  | 102.0f/s |
+
 ## Presenting Partial Detection Results
 
 <div align=center>
