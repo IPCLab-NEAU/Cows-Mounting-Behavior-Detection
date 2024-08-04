@@ -40,7 +40,7 @@ If you find this resource helpful, please use the following BibTeX entry.
     title     = {IATEFF-YOLO: Focus on cow mounting detection during nighttime},
     journal   = {Biosystems Engineering},
     volume    = {246},
-    pages     = {54-56},
+    pages     = {54-66},
     year      = {2024},
     issn      = {1537-5110},
     doi       = {https://doi.org/10.1016/j.biosystemseng.2024.07.017}
