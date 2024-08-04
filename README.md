@@ -23,11 +23,11 @@ Presenting Partial Detection Results
 <div align=center>
   <img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/detection/021.jpg" alt="夜间低光检测结果" width="800" height="550">
 </div>
-<li></li>
+<li style="list-style-type:none;"></li>
 <div align=center>
   <img align=center src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/detection/0130.jpg" alt="白天正常光照检测结果" width="800" height="550">
 </div>
-<li></li>
+<li style="list-style-type:none;"></li>
 <div align=center>
   <img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/detection/00000372.jpg" alt="白天正常光照检测结果" width="800" height="550">
 </div>
