@@ -15,8 +15,7 @@ The experimental results are as below.
 | --------| ------ | ---------- | -------- | -------- | -------- |
 | Ours    | 99.3%  |   97.8%    |   99.4%  |   99.1%  | 102.0f/s |
 
-## Presenting Partial Detection Results
-
+Presenting Partial Detection Results
 <div align=center>
   <img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/detection/091.jpg" alt="夜间低光检测结果" width="800" height="550">
 </div>
@@ -33,6 +32,17 @@ The experimental results are as below.
   <img src="https://github.com/IPCLab-NEAU/Cows-Mounting-Behavior-Detection/blob/main/detection/00000372.jpg" alt="白天正常光照检测结果" width="800" height="550">
 </div>
 
-
-## Citation
-If you find this resource helpful, please cite.
+## 3️⃣ Citation
+If you find this resource helpful, please use the following BibTeX entry.
+```
+@article{
+    author    = {De Li and Baisheng Dai and Yanxing Li and Peng Song and Xin Dai and Yongqiang He and Huixin Liu and Yang Li and Weizheng Shen},
+    title     = {IATEFF-YOLO: Focus on cow mounting detection during nighttime},
+    journal   = {Biosystems Engineering},
+    volume    = {246},
+    pages     = {54-56},
+    year      = {2024},
+    issn      = {1537-5110},
+    doi       = {https://doi.org/10.1016/j.biosystemseng.2024.07.017},
+}
+```
