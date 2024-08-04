@@ -43,6 +43,6 @@ If you find this resource helpful, please use the following BibTeX entry.
     pages     = {54-56},
     year      = {2024},
     issn      = {1537-5110},
-    doi       = {https://doi.org/10.1016/j.biosystemseng.2024.07.017},
+    doi       = {https://doi.org/10.1016/j.biosystemseng.2024.07.017}
 }
 ```
