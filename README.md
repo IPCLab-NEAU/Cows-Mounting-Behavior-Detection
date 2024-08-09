@@ -2,7 +2,7 @@
 Cows Mounting Behavior Detection
 Cows Mounting Behavior Detection based on IATEFF-YOLO
 ##  1️⃣ Data
-To find the dataset used in this study, please make sure all files are downloaded from: https://pan.baidu.com/s/1zCSCzob6awtRrBZPlMdXhQ
+To find the dataset used in this study, please make sure all files are downloaded from: https://pan.baidu.com/s/1Wy8Jhzfi3OIk2wS0F6pVuw
 
 Extraction code：please email at bsdai@neau.edu.cn
 
